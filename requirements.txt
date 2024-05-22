@@ -1,0 +1,10 @@
+pip install protobuf==3.20.0 transformers==4.26.1 icetk cpm_kernels
+pip install -U accelerate
+pip install datasets
+pip install -U peft
+pip install -U torchkeras
+
+conda install scikit-learn
+
+通过百度网盘上传大模型文件
+
